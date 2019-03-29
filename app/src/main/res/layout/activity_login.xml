@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+   <EditText
+       android:id="@+id/et_account"
+       android:hint="@string/account"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/et_pwd"
+        android:hint="@string/pwd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/btn_login"
+        android:text="@string/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <CheckBox
+        android:id="@+id/remember_pwd"
+        android:text="@string/rem_pwd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/btn_regist"
+        android:text="@string/regist"
+        android:background="@color/colorAccent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

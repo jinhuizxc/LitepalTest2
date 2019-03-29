@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">LitepalTest</string>
+    <string name="bar_title">今日头条</string>
+    <string name="index">首页</string>
+    <string name="video">视频</string>
+    <string name="news">微头条</string>
+    <string name="account">账号/E-MAIL</string>
+    <string name="z">请输入账号</string>
+    <string name="m">请输入密码</string>
+    <string name="pwd">密码/password</string>
+    <string name="login">登录</string>
+    <string name="rem_pwd">记住密码</string>
+    <string name="regist">注册</string>
+    <string name="年龄">年龄：例 18</string>
+    <string name="gender">你的性别：男/女</string>
+    <string name="submit">确认提交</string>
+    <string name="xsp_show_bt1">播放</string>
+    <string name="xsp_show_bt2">暂停</string>
+    <string name="xsp_show_bt3">继续</string>
+    <string name="xsp_show_bt4">重播</string>
+    <string name="bf_xs_tx1">正在播放</string>
+    <string name="ceshi_text1">测试</string>
+    <string name="notEmpty">账号或密码不能为空</string>
+    <string name="login_error">登录失败</string>
+    <string name="exit">账号已经存在</string>
+    <string name="regist_success">注册成功</string>
+    <string name="regist_fail">注册失败</string>
+    <string name="title">标题</string>
+    <string name="name_tv">点击登录</string>
+    <string name="dynamic_condition1">动态：1</string>
+    <string name="follwer">粉丝：24</string>
+    <string name="visitor">7天访客：6</string>
+    <string name="collect_tv">收藏</string>
+    <string name="history_tv">历史</string>
+    <string name="nighttime_tv">夜间</string>
+    <string name="message_notification">消息通知</string>
+    <string name="headline_shop">头条商城</string>
+    <string name="special_supply">京东特供</string>
+    <string name="disclose">我要爆料</string>
+    <string name="user_feedback">用户反馈</string>
+    <string name="setting">系统设置</string>
+
+</resources>

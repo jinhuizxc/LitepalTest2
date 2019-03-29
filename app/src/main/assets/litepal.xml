@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litePal>
+    <dbname value="newsdb"/>
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.jh.litepaltest.bean.NewsBean"/>
+        <mapping class="com.jh.litepaltest.bean.UserBean"/>
+        <mapping class="com.jh.litepaltest.bean.PraiseBean"/>
+    </list>
+
+</litePal>
